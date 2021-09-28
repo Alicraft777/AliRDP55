@@ -1,4 +1,4 @@
-name: amazonRDP
+name: AlicraftRDP
 
 on: workflow_dispatch
 
